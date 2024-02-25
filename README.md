@@ -1,7 +1,7 @@
 # Personal Portfolio Website
 Hey reader :wave:, this is my personal portfolio website build using HTML5, CSS3, JS and JQuery.
 
-<a href="https://github.com/prins1085">Visit Now</a> :rocket:
+<a href="https://prins1085.github.io/mywebsite/">Visit Now</a> :rocket:
 
 ## Extra stuffs used:
 Typed.js, Tilt.js, Scroll Reveal, Tawk.to, Font Awesome and JSON
